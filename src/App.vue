@@ -5,13 +5,6 @@
 </template>
 
 <script setup lang="tsx">
-
-const props = defineProps({
-    foo: {
-        type: String
-    }
-});
-
 </script>
 
 <style lang="scss">
