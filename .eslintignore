@@ -1,0 +1,8 @@
+/dist/
+/public/static/
+/src/views/access-*
+/src/views/data-rules
+/src/views/file-center-config
+/src/views/system-*
+/**/*.d.ts
+/node_modules/*
